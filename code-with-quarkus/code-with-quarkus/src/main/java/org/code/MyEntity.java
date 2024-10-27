@@ -25,6 +25,6 @@ import jakarta.persistence.Entity;
  */
 @Entity
 public class MyEntity extends PanacheEntity {
-	
+//	hello
     public String field;
 }
